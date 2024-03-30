@@ -1,0 +1,84 @@
+
+
+.header-section {
+  padding:50px 50px 0px 150px;
+  display: flex;
+  align-self: center;
+  justify-content: space-between;
+
+}
+header{
+  background-color: #E39FAE;
+  
+}
+.header-file{
+  font-size: 85px;
+  font-weight: 700;
+  margin-top: 5px;
+}
+.header-pic{
+  width: 500px;
+}
+.header-button{
+  border-radius: 5px;
+  background: #E55473;
+  border: 0;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 18px 35px;
+}
+/*first section css*/
+.first-section{
+  text-align: center;
+  margin-top: 110px;
+}
+.secound-section{
+  display: flex;
+  justify-content: space-around;
+  padding: 0 300px;
+  margin-top: 110px;
+  
+} 
+.secound-first-pic{
+  background-color: #A72162;
+  width: 400px;
+  height: 500px;
+  border-radius: 80% / 100% 100% 0 0;
+  
+  
+}
+.secound-secound-pic{
+  background-color: #0597A0;
+  width: 400px;
+  height: 500px;
+  border-radius: 80% / 100% 100% 0 0;  
+
+}
+.secound-third-pic{
+  background-color: #477D11;
+  width: 400px;
+  height: 500px;
+  border-radius: 80% / 100% 100% 0 0; 
+
+}
+.first-flower{
+  text-align: center;
+  text-decoration: underline black;
+}
+.third-section{
+  background-color: #E39FAE;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 110px;
+
+  padding: 130px;
+  border-radius: 10px;
+
+  margin: 130px 0px;
+  
+}
+.asd{
+  text-align: center;
+  margin: auto;
+}
